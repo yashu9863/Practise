@@ -18,5 +18,6 @@ namespace WebApplication1.Models
         public string Company { get; set; }
 
         public int CarNum { get; set; }
+        public int CaNum { get; set; }
     }
 }
